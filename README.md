@@ -5,6 +5,16 @@
 I built this project to show how I think through a real dataset from start to finish — not just coding, but the logic behind each step. The Adult Census Income dataset (often called the “Adult Income” dataset) is a classic dataset with demographic and work‑related features and an income label. My goal here is to make the work clear, honest, and easy to follow, whether you’re technical or not.
 
 ## What’s inside
+# Adult Income EDA & ML
+
+## About
+
+This repo is my place to explore the Adult Income dataset and try a few machine‑learning ideas. If you are new to data work, that’s totally fine — the notebooks are meant to be opened and followed step by step.
+
+## What’s inside
+I put this together to keep my Adult Income EDA and modeling work in one place. It’s meant to be simple to open, run, and tweak as I explore the data and try different ML approaches.
+
+## Project structure
 
 ```
 .
@@ -21,6 +31,9 @@ I built this project to show how I think through a real dataset from start to fi
 
 1. **Create a virtual environment (optional)**  
    If you’ve never used one, you can skip this step.
+## Getting started
+
+1. **Create a virtual environment (optional)**
 
    ```bash
    python -m venv .venv
@@ -67,6 +80,8 @@ I built this project to show how I think through a real dataset from start to fi
 ## Why this matters (for data roles)
 
 I wanted this repo to show that I can go beyond running code — I can explain what I’m doing, why I’m doing it, and what the results mean. If you’re a hiring manager or recruiter in data, you’ll see clean structure, practical analysis, and a clear story from raw data to model evaluation.
+   - `notebooks/Adult_Income_EDA.ipynb` for exploration and visualization.
+   - `notebooks/Adult_Income_Machine_Learning.ipynb` for modeling and evaluation.
 
 ## Notes
 
