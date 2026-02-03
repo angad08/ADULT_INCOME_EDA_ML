@@ -46,9 +46,6 @@ I put this together to keep my Adult Income EDA and modeling work in one place. 
    ```
 
 4. **Open the notebooks**
-
-   - `notebooks/Adult_Income_EDA.ipynb` → basic exploration and charts.
-   - `notebooks/Adult_Income_Machine_Learning.ipynb` → modeling and evaluation.
    - `notebooks/Adult_Income_EDA.ipynb` for exploration and visualization.
    - `notebooks/Adult_Income_Machine_Learning.ipynb` for modeling and evaluation.
 
